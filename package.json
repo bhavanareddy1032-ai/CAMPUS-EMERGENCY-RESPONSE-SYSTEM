@@ -1,0 +1,27 @@
+{
+  "name": "campus-emergency-response-system",
+  "version": "1.0.0",
+  "description": "Campus Emergency Response System - Real-Time Node.js & Express College Safety Web Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "campus-safety",
+    "emergency-response",
+    "nodejs",
+    "express",
+    "sos-alert",
+    "javascript"
+  ],
+  "author": "Bhavana Reddy",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
